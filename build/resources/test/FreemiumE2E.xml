@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite thread-count="1" verbose="1" name="FreemiumE2EFlowCheck">
+    <listeners>
+        <listener class-name="base.Listeners.MobileListener"/>
+    </listeners>
+    <test name="Freemium_Flow">
+        <classes>
+            <class name="FreemiumE2E"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,8 @@
+{
+  "platformName": "IOS",
+  "deviceName": "iPhone 12",
+  "udid": "44CE0981-550C-4C5A-A03E-08AE4F8414BC",
+  "automationName": "XCuiTest",
+  "appPackage": "com.diy.develop",
+  "appActivity": "com.diy.MainActivity"
+}
